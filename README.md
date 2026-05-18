@@ -101,5 +101,5 @@ There's always room to grow! Here are some features I plan to add:
 - Automated email confirmations for bookings.
 
 ## 👨‍💻 Author
-Built with ❤️ by **[Your Name/Username]**  
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourprofile) or check out my other projects on [GitHub](https://github.com/yourusername).
+Built with ❤️ by **Anuj Gupta**  
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anujgupta45/) or check out my other projects on [GitHub](https://github.com/AnujGupta45).
